@@ -1,4 +1,5 @@
 # **Vasiliy Andreev**
+![](src/img/avatar_180x180.jpg)
 
 ## **Contacts**
 
@@ -111,7 +112,8 @@ As i said i don't have any experience, Except training projects. And I didn't pu
 
 ## **Education**
 * **School**: Secondary general education Tatar-Russian lyceum №23.
-* **Stepik** course:
+* **Stepik** course:\
+![](src/img/sertificate.png)
 
 ## **English**
 I was learning English at school, from different games and from other players.
