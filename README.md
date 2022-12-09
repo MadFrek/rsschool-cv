@@ -1,1 +1,1 @@
-https://mqsterofstrange.github.io/rsschool-cv/cv
+[CV#1. Markdown & Git](https://mqsterofstrange.github.io/rsschool-cv/cv)
